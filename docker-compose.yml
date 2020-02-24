@@ -1,0 +1,6 @@
+version: "3"
+
+services:
+  clojure:
+    container_name: playground
+    image: clojure:playground
